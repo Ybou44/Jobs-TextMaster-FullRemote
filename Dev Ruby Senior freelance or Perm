@@ -12,7 +12,7 @@ Since 2018, TextMaster is part of the Technicis Group, the European leader in pr
 Technical environment
 ---------------------
 
-•	Back-end: Ruby on Rails (Rails 4.x, 5.x), JRuby, Elixir, GraphQL, RabbitMQ, CQRS
+•	Back-end: Ruby on Rails (Rails 4.x, 5.x), JRuby, Elixir, GraphQL, RabbitMQ, CQRS (80% of the tasks are related to RoR)
 •	Front-end: React, Redux, Redux-Saga, NodeJS, Webpack, ES9 / Babel, Flexbox, GraphQL, Apollo
 •	Database: MongoDB, Elasticsearch, Redis, Postgres, Neo4j
 •	Infrastructure: GCP, AWS, Azure, Kubernetes, Istio, Docker, Terraform, Cloudflare
