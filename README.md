@@ -15,4 +15,6 @@ At TextMaster we care deeply about code quality and go the extra mile to write m
 ## To candidate
 Check the Job Description then,
 Contact me to candidate or to know more : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
+You can also follow the classic application process described here https://github.com/textmaster/tm-ruby-checkout
+Please note that we take the first technical test very seriously.
 If you are curious to know about the CTO of the company, check his linkedin profile : https://www.linkedin.com/in/pierrelouisgottfrois/
